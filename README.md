@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HariKrshnan
-- 👀 I’m interested in developing mobile apps
+- 👀 I’m interested in developing mobile apps in flutter and native android.
 - 🌱 I’m currently learning jetpack compose
 - 💞️ I’m looking to collaborate on opensource interesting projects
 - 📫 Can reach out to me thro -> 2310hari@gmail.com
